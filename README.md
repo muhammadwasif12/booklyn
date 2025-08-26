@@ -32,8 +32,6 @@
 ### 🎨 **Modern UI/UX**
 - **Material Design 3**: Latest design principles with dynamic theming
 - **Responsive Layout**: Optimized for different screen sizes
-- **Smooth Animations**: Fluid transitions and interactive elements
-- **Dark/Light Theme**: Automatic theme adaptation
 
 ### 🗄️ **Robust Data Management**
 - **SQLite Database**: Local storage for offline access
