@@ -62,13 +62,21 @@
 ## 📱 App Screenshots
 
 ### Home & Search
-![Home Screen](screenshots/home_screen.png) | ![Search Results](screenshots/search_results.png)
+<img width="1366" height="768" alt="Screenshot (2078)" src="https://github.com/user-attachments/assets/9abcca00-b95f-4d6e-9321-f4d56eb56e82" />
+
+<img width="1366" height="768" alt="Screenshot (2079)" src="https://github.com/user-attachments/assets/efa5d43a-6c90-4b73-9944-b636e0123b16" />
+
 
 ### Book Details & Library
-![Book Details](screenshots/book_details.png) | ![Saved Books](screenshots/saved_books.png)
+<img width="1366" height="768" alt="Screenshot (2080)" src="https://github.com/user-attachments/assets/9d8cf118-69cc-4f52-840a-55b08c176005" />
 
-### Favorites & Settings
-![Favorites](screenshots/favorites.png) | ![Settings](screenshots/settings.png)
+<img width="1366" height="768" alt="Screenshot (2083)" src="https://github.com/user-attachments/assets/32059ca7-3c19-4ba2-b06a-a1f54edeea06" />
+
+
+
+### Favorites 
+<img width="1366" height="768" alt="Screenshot (2084)" src="https://github.com/user-attachments/assets/08705ddf-09ba-428c-bd51-33e0414dc059" />
+
 
 ## 🚀 Getting Started
 
