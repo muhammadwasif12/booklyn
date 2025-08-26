@@ -373,7 +373,6 @@ in the Software without restriction...
 
 ## 👨‍💻 Author
 
-**Your Name**
 - GitHub: muhammadwasif12
 - Email: muhammadwasifshah629@gmail.com
 
