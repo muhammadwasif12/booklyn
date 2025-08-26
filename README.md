@@ -374,9 +374,8 @@ in the Software without restriction...
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: muhammadwasif12
+- Email: muhammadwasifshah629@gmail.com
 
 ## 🙏 Acknowledgments
 
